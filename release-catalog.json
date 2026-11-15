@@ -3,17 +3,21 @@
   "product": "starsky-antigravity-v2",
   "tier": "basic",
   "latest_preview": "3.0.49",
+  "stable_release": "3.0.49",
+  "version": "3.0.49",
+  "plugin_version": "3.0.49+antigravity-desktop.20261115.1",
+  "updated": "2026-11-15",
   "release_url": "https://github.com/wenjiany312-hub/starsky-amazon-antigravity-v2/releases/tag/v3.0.49",
   "platforms": {
     "windows": {
       "file": "Starsky-Antigravity-3.0.49-windows.zip",
-      "sha256": "70fdccfff785e60222903cb9776cbfd7d7250b0e3a9507890172195f836dce99",
-      "bytes": 7096141
+      "sha256": "b1bc7f4629c9aaa136b78e6cd1691cbd49042973255bfdfe7dd1579b928bd3b4",
+      "bytes": 7096191
     },
     "macos": {
       "file": "Starsky-Antigravity-3.0.49-macos.zip",
-      "sha256": "4c41d43c272be99d4ad95b5bfe0fd093ecb79323ff615264bc78725a2b3feed7",
-      "bytes": 7262205
+      "sha256": "c408ef6a950adce868ec844123bf4a8ddef99468bee50ba5405270147642bde3",
+      "bytes": 7262255
     }
   }
 }
