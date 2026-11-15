@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "product": "starsky-antigravity-v2",
+  "tier": "flagship",
+  "latest_preview": "3.1.41",
+  "engine_version": "0.2.0-alpha.36",
+  "release_url": "https://github.com/wenjiany312-hub/starsky-amazon-antigravity-v2/releases/tag/v3.1.41-antigravity-flagship",
+  "platforms": {
+    "windows": {
+      "file": "Starsky-Antigravity-Flagship-3.1.41-windows.zip",
+      "sha256": "b97e5fdd6772a1c67973eb085e6a201d817da917b4bcd1c97b07e16719665a95",
+      "bytes": 14278107
+    },
+    "macos": {
+      "file": "Starsky-Antigravity-Flagship-3.1.41-macos.zip",
+      "sha256": "8568ba6824404637ff0c5d9fcab8eac1bf15a12ba13d7709f00f18164e1ede98",
+      "bytes": 14444195
+    }
+  }
+}
