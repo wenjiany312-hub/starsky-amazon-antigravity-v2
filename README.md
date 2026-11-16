@@ -52,14 +52,14 @@
 
 ### 旗舰版 · 星空 AI 智能广告
 
-Antigravity 旗舰发行 **3.1.42**，插件 **3.1.42+antigravity-flagship.20261116.1**，内含 **0.2.0-alpha.36** 引擎（44 个 Skill + 3 大知识库 + 3 个原生子代理）。
+Antigravity 旗舰发行 **3.1.43**，插件 **3.1.43+antigravity-flagship.20261116.2**，内含 **0.2.0-alpha.36** 引擎（44 个 Skill + 3 大知识库 + 3 个原生子代理）。
 
 | 平台 | 安装包 |
 | --- | --- |
-| Windows | [旗舰版安装包](https://github.com/wenjiany312-hub/starsky-amazon-antigravity-v2/releases/download/v3.1.42-antigravity-flagship/Starsky-Antigravity-Flagship-3.1.42-windows.zip) |
-| macOS | [旗舰版安装包](https://github.com/wenjiany312-hub/starsky-amazon-antigravity-v2/releases/download/v3.1.42-antigravity-flagship/Starsky-Antigravity-Flagship-3.1.42-macos.zip) |
+| Windows | [旗舰版安装包](https://github.com/wenjiany312-hub/starsky-amazon-antigravity-v2/releases/download/v3.1.43-antigravity-flagship/Starsky-Antigravity-Flagship-3.1.43-windows.zip) |
+| macOS | [旗舰版安装包](https://github.com/wenjiany312-hub/starsky-amazon-antigravity-v2/releases/download/v3.1.43-antigravity-flagship/Starsky-Antigravity-Flagship-3.1.43-macos.zip) |
 
-[发行与校验文件](https://github.com/wenjiany312-hub/starsky-amazon-antigravity-v2/releases/tag/v3.1.42-antigravity-flagship) · [安装与授权](docs/flagship/安装与授权.md) · [会员更新说明](docs/flagship/会员更新说明.md) · [旗舰版更新记录](docs/flagship/更新记录.md)
+[发行与校验文件](https://github.com/wenjiany312-hub/starsky-amazon-antigravity-v2/releases/tag/v3.1.43-antigravity-flagship) · [安装与授权](docs/flagship/安装与授权.md) · [会员更新说明](docs/flagship/会员更新说明.md) · [旗舰版更新记录](docs/flagship/更新记录.md)
 
 完整解压 → 运行「申请授权」 → 私信坚哥发送“Antigravity 正式版 + 旗舰版 + 系统 + 本机申请码” → 确认购买后取得 **`SKYA2.`** 本机授权 → 运行「安装与更新」 → 重启 Google Antigravity 后新会话输入「启动星空」。不要发送店铺凭据。
 
@@ -75,12 +75,12 @@ Antigravity 旗舰发行 **3.1.42**，插件 **3.1.42+antigravity-flagship.20261
 
 ### 运营版（最新版）
 
-Antigravity 运营发行 **3.0.50**，插件 **3.0.50+antigravity-desktop.20261116.1**（40 个 Skill + 3 大知识库 + 3 个原生子代理，完整覆盖 S1–S5）。
+Antigravity 运营发行 **3.0.51**，插件 **3.0.51+antigravity-desktop.20261116.2**（40 个 Skill + 3 大知识库 + 3 个原生子代理，完整覆盖 S1–S5）。
 
 | 平台 | 安装包 | 首次入口 |
 | --- | --- | --- |
-| Windows | [Windows 安装包](https://github.com/wenjiany312-hub/starsky-amazon-antigravity-v2/releases/download/v3.0.50/Starsky-Antigravity-3.0.50-windows.zip) | 完整解压，阅读 `00-使用说明.html`，运行 `申请授权.bat` |
-| macOS | [Mac 安装包](https://github.com/wenjiany312-hub/starsky-amazon-antigravity-v2/releases/download/v3.0.50/Starsky-Antigravity-3.0.50-macos.zip) | 完整解压，阅读 `00-使用说明.html` 与 `Mac安装指导.html`，运行 `申请授权.command` |
+| Windows | [Windows 安装包](https://github.com/wenjiany312-hub/starsky-amazon-antigravity-v2/releases/download/v3.0.51/Starsky-Antigravity-3.0.51-windows.zip) | 完整解压，阅读 `00-使用说明.html`，运行 `申请授权.bat` |
+| macOS | [Mac 安装包](https://github.com/wenjiany312-hub/starsky-amazon-antigravity-v2/releases/download/v3.0.51/Starsky-Antigravity-3.0.51-macos.zip) | 完整解压，阅读 `00-使用说明.html` 与 `Mac安装指导.html`，运行 `申请授权.command` |
 
 [全部发行与校验文件](https://github.com/wenjiany312-hub/starsky-amazon-antigravity-v2/releases) · [安装与授权](docs/安装与授权.md) · [使用说明](docs/使用说明.md) · [年度更新与续期](docs/会员更新说明.md) · [更新记录](docs/更新记录.md) · [问题反馈](docs/问题反馈.md)
 
@@ -102,9 +102,9 @@ Antigravity 运营发行 **3.0.50**，插件 **3.0.50+antigravity-desktop.202611
 
 正式版只接收本正式版通道（`SKYA2.`）的对应档位更新。旧测试版 `SKYA1.` 授权不会自动转换成正式版授权；授权绑定申请时的电脑，不支持换机；跨产品或版本档需联系作者分别办理。
 
-## 最新版本 · 旗舰版 3.1.42（2026-11-16）
+## 最新版本 · 旗舰版 3.1.43（2026-11-16）
 
-运营版 **3.0.50**，旗舰版 **3.1.42**。
+运营版 **3.0.51**，旗舰版 **3.1.43**。
 
 - **悬浮窗宿主隔离与 Mac Tkinter 自动兜底**：修复 `nav_float.py` 读写 `~/.starsky-claude` 导致的跨宿主串案问题，统一隔离至 `~/.starsky-antigravity/`；macOS 下默认运行环境缺少 `tkinter` 时自动探测本机带 Tk 8.6+ 的 Python3 解释器拉起悬浮窗，并补充「启动悬浮窗」触发口令。
 - **macOS 旗舰版装完即生成广告终端桌面图标**：修复 `install_ads_launcher` 跳过 macOS 的问题，Mac 装完旗舰版后即在桌面与 `~/Applications/` 生成广告终端入口，首次双击自动初始化引擎并打开接入向导，跨宿主共享 `~/星空广告数据`。
