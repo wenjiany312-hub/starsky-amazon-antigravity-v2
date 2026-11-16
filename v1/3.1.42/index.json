@@ -1,0 +1,11 @@
+{
+  "bytes": 1532,
+  "file": "grants.zip",
+  "generated_at": "2026-11-16T11:08:52.297138+00:00",
+  "key_id": "56eb0da5bc116e6773602292a3221a28",
+  "payload_sha256": "2fafc5ccba505b657ef9874d5d7d21d3fc0b4c88c97139e38886472589c3e5d5",
+  "product": "starsky-antigravity-v2",
+  "schema": 1,
+  "sha256": "c255448991ba2ecc6027483252cbf75dee92cd8c21d6ea34acaa0f77aed378ea",
+  "version": "3.1.42"
+}
