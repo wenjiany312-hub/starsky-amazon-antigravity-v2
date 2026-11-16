@@ -2,23 +2,23 @@
   "schema": 1,
   "product": "starsky-antigravity-v2",
   "tier": "flagship",
-  "latest_preview": "3.1.41",
-  "stable_release": "3.1.41",
-  "version": "3.1.41",
-  "plugin_version": "3.1.41+antigravity-flagship.20261115.1",
+  "latest_preview": "3.1.42",
+  "stable_release": "3.1.42",
+  "version": "3.1.42",
+  "plugin_version": "3.1.42+antigravity-flagship.20261116.1",
   "engine_version": "0.2.0-alpha.36",
-  "updated": "2026-11-15",
-  "release_url": "https://github.com/wenjiany312-hub/starsky-amazon-antigravity-v2/releases/tag/v3.1.41-antigravity-flagship",
+  "updated": "2026-11-16",
+  "release_url": "https://github.com/wenjiany312-hub/starsky-amazon-antigravity-v2/releases/tag/v3.1.42-antigravity-flagship",
   "platforms": {
     "windows": {
-      "file": "Starsky-Antigravity-Flagship-3.1.41-windows.zip",
-      "sha256": "d88f90b9c9f8f8b24b46f87d1118aa31730f94034fd6fdfe81c2f01c03d9fc46",
-      "bytes": 14278157
+      "file": "Starsky-Antigravity-Flagship-3.1.42-windows.zip",
+      "sha256": "504c198dfa576c328a13b790e1abb85ca57501c3104cfc69fcbb7e668a9ef79a",
+      "bytes": 14270724
     },
     "macos": {
-      "file": "Starsky-Antigravity-Flagship-3.1.41-macos.zip",
-      "sha256": "31bb6c83a6878045d4028bf9d1f48192cd862d8d303038e7a6332f369d8e11ba",
-      "bytes": 14444245
+      "file": "Starsky-Antigravity-Flagship-3.1.42-macos.zip",
+      "sha256": "a730f9242f4d4040f8dca2c54a5f8331c2623dc6c55c416cbf2af617531c5d90",
+      "bytes": 14436810
     }
   }
 }
